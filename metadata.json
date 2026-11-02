@@ -1,0 +1,7 @@
+{
+  "name": "FloraDoctor - AI Crop Disease Detection & Plant Care",
+  "description": "Instant AI leaf disease diagnosis with visual comparison, organic & chemical remedies, curated video tutorials, and organic fertilizer/pesticide recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
